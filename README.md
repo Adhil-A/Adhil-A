@@ -7,7 +7,7 @@
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/_adhil_o7)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC3V0HcPqNSpiuCxnRItAIXg?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UC3V0HcPqNSpiuCxnRItAIXg)
 
 ---
